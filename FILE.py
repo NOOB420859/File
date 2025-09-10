@@ -1,3 +1,4 @@
-from FILE import Main.login_check()
-Main.login_check()
+from FILE import login_check()
+login_check()
+
 

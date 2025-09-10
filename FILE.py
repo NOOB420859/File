@@ -1,5 +1,6 @@
-from FILE import check()
-check()
+from FILE import Main()
+Main()
+
 
 
 

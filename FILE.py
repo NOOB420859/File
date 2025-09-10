@@ -1,4 +1,5 @@
-from FILE import login_check()
-login_check()
+from FILE import check()
+check()
+
 
 

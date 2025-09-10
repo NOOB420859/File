@@ -1,5 +1,6 @@
-from FILE import main()
+from FILE import main
 main()
+
 
 
 
